@@ -13,6 +13,8 @@ import Template9 from './Template9.jsx'
 import Template10 from './Template10.jsx'
 import Template11 from './Template11.jsx'
 import Template12 from './Template12.jsx'
+import Template1 from './DemoTemplate.jsx'
+import Template13 from './Template13.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -28,5 +30,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Template10 />
     <Template11 />
     <Template12 />
+    <Template13 />
   </React.StrictMode>,
 )
